@@ -125,5 +125,3 @@ configure_file(<input> <output>
 >>add_executable(DEMO tutorial.cpp)
 >>```
 
-
-# cmake_learning
